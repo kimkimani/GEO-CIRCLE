@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331053946425",
+    "firebase_url": "https://geofamily-364ee.firebaseio.com",
+    "project_id": "geofamily-364ee",
+    "storage_bucket": "geofamily-364ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331053946425:android:1325c36520bb305ce59fe8",
+        "android_client_info": {
+          "package_name": "family.track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331053946425-cchuh8nui90dc0dmnehe75smipn095s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwN3Z39Yuyu3KH2Zm50eRjY-kIFfL-oAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331053946425-cchuh8nui90dc0dmnehe75smipn095s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
